@@ -1,0 +1,3044 @@
+
+ [
+  {
+    "nickname": "little baby",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15"
+    ],
+    "weight": [
+      "Below 60kg"
+    ],
+    "height": [
+      "Below 1.70"
+    ],
+    "think": [
+      "A"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "kiddo",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15"
+    ],
+    "weight": [
+      "Below 60kg"
+    ],
+    "height": [
+      "Below 1.70"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Lollipop",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sally",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sheena",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sister",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Underdog",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Lulu",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Bitch",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Cupcake",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Hot lips",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Little Red Riding hood",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "Below 60kg"
+    ],
+    "height": [
+      "Below 1.70"
+    ],
+    "think": [
+      "A"
+    ],
+    "hair-color": [
+      "black",
+      "red"
+    ]
+  },
+  {
+    "nickname": "Lucy",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "1-15",
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Muchacha",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Ponce De Leon",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Rambina",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45",
+      "Above 45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Pops",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45",
+      "Above 45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "The Big Kahuna",
+    "gender": [
+      "male"
+    ],
+    "age": "[\"26-45\",\"Above 45]",
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "The Boss",
+    "gender": [
+      "male"
+    ],
+    "age": "[\"26-45\",\"Above 45]",
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Captain bunny killer",
+    "gender": [
+      "male"
+    ],
+    "age": "[\"26-45\",\"Above 45]",
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Gizmo",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Yoda",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Boy",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Metro",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Son",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m"
+    ],
+    "think": [
+      "A"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Baby",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Dimples",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Amigo",
+    "gender": [
+      "male",
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Chuckie",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Jiminy Cricket",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Little Limey Runt",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Muchkin",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Oliver Twist",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sport",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Tatoo",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Red",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black",
+      "red"
+    ]
+  },
+  {
+    "nickname": "Ginger",
+    "gender": [
+      "male",
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black",
+      "ginger"
+    ]
+  },
+  {
+    "nickname": "Blondie",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black",
+      "blonde"
+    ]
+  },
+  {
+    "nickname": "Mamacita",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "26-45",
+      "Above 45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Missy",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sweetheart",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Dr.Wizard",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45",
+      "Above 45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Geek",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Mad Scientist",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Whiz Kid",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Plato",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Twitchy",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Mr.Muscle",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Shaft",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Ringer",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Shaggy",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Kenny Rogers",
+    "gender": [
+      "male"
+    ],
+    "age": "26-45\",\"Above 45\"]",
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Bastard",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Chief",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Barbar",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Gumpy",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Chicken Little",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Deep Dish",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Grape Ape",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Grimace",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Hammo",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Hero",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg",
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Hoss",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Hulk",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "International House of Pancakes",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Jabba",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Jumbotron",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Kong",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Lardo",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Mongo",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Muttonchops",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Pillsbury",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Pork pie",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Rotund",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Above 100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sabo",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Snuffy",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Brother",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Chico",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Cool Hand",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Cowboy",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Do Right",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Jackass",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sheriff",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sundance",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Bruce",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Chewie",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Daddy O",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Senior",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "Above 45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Old man",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "Above 45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Torchy",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Wise Ass",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Chachi",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Cheech",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Freckles",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Honey",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Little Lady",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sassafras",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Shortcake",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sugar",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sweetcheecks",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Tinkerbell",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Moonbeam",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "Below 60kg",
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Brutus",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Bald Fellow",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Mr Clean",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Colonel Kurtz",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Wacko",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Captain",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Jabronie",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Zorro",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Blockhead",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Captain Felafel",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Genius",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15",
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Barbie",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "1-15",
+      "16-25"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Sticks",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Buddy",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Betty",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "16-25",
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Madam Butterfly",
+    "gender": [
+      "female"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "Below 1.70",
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Zeke",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "26-45"
+    ],
+    "weight": [
+      "60-80kg",
+      "80-100kg"
+    ],
+    "height": [
+      "1.70-1.75m",
+      "1.75-1.85m",
+      "Above 1.85m"
+    ],
+    "think": [
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  },
+  {
+    "nickname": "Kid",
+    "gender": [
+      "male"
+    ],
+    "age": [
+      "1-15"
+    ],
+    "weight": [
+      "Below 60kg"
+    ],
+    "height": [
+      "Below 1.70"
+    ],
+    "think": [
+      "A",
+      "B"
+    ],
+    "hair-color": [
+      "black"
+    ]
+  }
+]
+  

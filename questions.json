@@ -1,0 +1,30 @@
+{
+    "questions":[
+      {
+        "question": "What is your gender",
+        "options": ["male", "female", "other"]
+      },
+      {
+        "question": "What is your age?",
+        "options": ["1-15", "16-25", "26-45", "Above 45"]
+      },
+      {
+        "question": "What is your weight?",
+        "options": ["Below 60kg", "60-80kg", "80-100kg", "Above 100kg"]
+      },
+      {
+        "question": "What is your height?",
+        "options": ["Below 1.70", "1.70-1.75m", "1.75-1.85m", "Above 1.85m"]
+      },
+      {
+        "question":"Pick One\n A: Be Smart\n B: Be Brave",
+        "options":["A","B"]
+      },
+      {
+        "question":"What is your hair colour?",
+        "options":["black","blonde","red","ginger"]
+      }
+    ]
+  }
+  
+  
